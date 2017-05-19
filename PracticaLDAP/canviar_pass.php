@@ -18,12 +18,16 @@
 		   <i class="fa fa-user"></i>
 		 </div>
 		 <div class="form-group log-status">
-		   <input type="password" class="form-control" name="oldpass" placeholder="Contrasenya actual" id="Passwod">
+		   <input type="password" class="form-control" name="oldpass" placeholder="Contrasenya actual" id="Passwod" required>
 		   <i class="fa fa-lock"></i>
 		 </div>
 		 <div class="form-group log-status">
-		   <input type="password" class="form-control" name="newpass" placeholder="Contrasenya nova" id="Passwod2">
+		   <input type="password" class="form-control" name="newpass" placeholder="Contrasenya nova" id="Passwod2" required>
 		   <i class="fa fa-lock"></i>
+		 </div>
+		  <div class="form-group log-status">
+		   <input type="checkbox" class="form-control" name="huma" id="huma" value="1" required>
+		   <input type="checkbox" class="form-control" name="robot" id="robot" value="0" required>
 		 </div>
 		 
 		<button type="submit" class="log-btn" >Canviar password</button>
