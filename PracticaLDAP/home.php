@@ -53,7 +53,7 @@ if ($ldapconn) {
 		<body>
 		  <div class="login-form">
 			  
-			 <h1>Dades personals</h1>
+			 <h1>Dades personals <?php echo $cn; ?></h1>
 			 
 			 <p><strong>uid:</strong> <?php echo $uid; ?></p>
 			 <p><strong>cn:</strong> <?php echo $cn; ?></p>
