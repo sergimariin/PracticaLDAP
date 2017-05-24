@@ -2,14 +2,14 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Intranet DAW2 LDAP</title> 
+  <title>Intranet DAW2 LDAP Ex5</title> 
   <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
   <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
   <div class="login-form">
-     <h1>Intranet DAW2 LDAP</h1>
+     <h1>Intranet DAW2 LDAP Ex5</h1>
      
      <form method="post" action="home.php">
 		 
