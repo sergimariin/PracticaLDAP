@@ -2,14 +2,14 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Intranet</title> 
+  <title>Intranet Sergi Marin</title> 
   <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
   <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
   <div class="login-form">
-     <h1>Intranet</h1>
+     <h1>Intranet Sergi Marin</h1>
      
      <form method="post" action="home.php">
 		 
