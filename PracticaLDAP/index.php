@@ -9,7 +9,7 @@
 
 <body>
   <div class="login-form">
-     <h1>Intranet DAW2weeeeee</h1>
+     <h1>Intranet DAW2 Comentario 2</h1>
      
      <form method="post" action="home.php">
 		 
